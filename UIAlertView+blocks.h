@@ -19,7 +19,7 @@
 
 #import <UIKit/UIKit.h>
 
-typedef void (^UIAlertViewCompletionBlock)(NSUInteger buttonIndex);
+typedef void (^UIAlertViewCompletionBlock)(NSInteger buttonIndex);
 
 @interface UIAlertView (blocks) <UIAlertViewDelegate>
 
