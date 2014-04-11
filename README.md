@@ -3,7 +3,7 @@ UIAlertView-blocks
 
 ***Category on UIAlertView that implements block support***
 
-This class adds block support for `UIAlertView` which you can use along with the `UIAlertViewDelegate` protocol.
+This category adds block support for `UIAlertView` which you can use along with the `UIAlertViewDelegate` protocol.
 
 ##Example usage
 ``` objective-c
